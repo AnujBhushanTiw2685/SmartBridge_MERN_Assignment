@@ -9,7 +9,7 @@ function App() {
     <div className="flex flex-col items-center gap-8 p-10">
       <TextUpdater />
       <SimpleForm />
-      <UserCard name="Aditya Dubey" email="Shashidhar.K@vit.com" />
+      <UserCard name="Anuj" email="Anuj@gmail.com" />
       <Button />
       <LoginForm />
     </div>
